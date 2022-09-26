@@ -1,0 +1,5 @@
+token: 'Yourbot-token'
+blacklisted: '510805 434258 434256 601149 379248'
+prefix: '/!.'
+owner: 5341033169
+antispam: 10
